@@ -323,7 +323,7 @@ print(myipad)
 
 
 """ Task 12 start """
-"""
+
 import random
 import sys
 
@@ -521,6 +521,5 @@ def subnet_calc():
         sys.exit()
 
 subnet_calc()
-"""
 
 """ Task 12 end """
